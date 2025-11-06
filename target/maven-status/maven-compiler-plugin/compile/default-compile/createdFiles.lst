@@ -1,0 +1,6 @@
+es\grise\upm\profundizacion\exceptions\LocalUserDoesNotHaveNullEmailException.class
+es\grise\upm\profundizacion\exceptions\NullUserException.class
+es\grise\upm\profundizacion\subscriptionService\User.class
+es\grise\upm\profundizacion\subscriptionService\Delivery.class
+es\grise\upm\profundizacion\subscriptionService\SubscriptionService.class
+es\grise\upm\profundizacion\exceptions\ExistingUserException.class
